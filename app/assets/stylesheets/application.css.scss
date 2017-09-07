@@ -20,7 +20,7 @@
 	padding: 10px;
 	border-bottom: 2px solid;
 	font: small-caps 40px/40px "Helvetica", sans-serif;
-	color: #AEB6BF;
+	color: #F8F9F9;
 	text-align: center;
 
 	img {
@@ -95,6 +95,57 @@
 					font-size: small;
 				}
 			}
+		}
+	}
+}
+.depot_form {
+
+	fieldset {
+		background: #fff;
+		border: 2px solid #34495e;
+		border-radius: 5px;
+
+		legend {
+			color: #F8F9F9;
+			border: 2px solid #AEB6BF;
+			background: #34495e;
+			font-family: sans-serif;
+			padding: 0.5em 2em;
+			border-radius: 5px;
+		}
+	}
+	form {
+		label {
+			width: 5em;
+			float: left;
+			text-align: right;
+			margin-left: 5px;
+			margin-top: 5px;			
+			display: block;
+			font-size: smaller;
+		}
+		select, textarea, input{
+			margin-left: 5px;
+			margin-top: 5px;
+			border: 2px solid #34495e;
+			border-radius: 5px;
+		}
+		input[type="submit"] {
+			background: #34495e;
+			border: 1px solid #34495e;
+			color: #AEB6BF;
+			margin-left: 78px;
+		}
+		input[type="submit"]:hover{
+			background: #AEB6BF;
+			border: 1px solid #34495e;
+			color: #34495e;
+		}
+		.submit {
+			margin-left: 4em;
+		}
+		br {
+			display: none
 		}
 	}
 }
