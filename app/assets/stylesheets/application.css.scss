@@ -1,0 +1,100 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ *= require jquery-ui
+ */
+
+#banner {
+	background: #34495E;
+	padding: 10px;
+	border-bottom: 2px solid;
+	font: small-caps 40px/40px "Helvetica", sans-serif;
+	color: #AEB6BF;
+	text-align: center;
+
+	img {
+		float: left;
+	}
+}
+
+#notice {
+	color: #000 !important;
+	border: 2px solid red;
+	padding: 1em;
+	margin-bottom: 2em;
+	background-color: #f0f0f0f;
+	font: bold smaller sans-serif;
+}
+
+#columns {
+	background: #AEB6BF;
+
+	#main {
+		margin-left: 17em;
+		padding: 1em;
+		background-color: white;
+				}
+
+	#side {
+		float: left;
+		padding: 1em 2em;
+		width: 13em;
+		background: #AEB6BF;
+
+		input {
+			background-color: #34495E;
+			color: #AEB6BF;
+			border-radius: 5px;
+			border: 1px solid #34495E;
+		}
+		input:hover {
+			background-color: #AEB6BF;
+			color: #34495E;
+			border-radius: 5px;
+			border: 1px solid #34495E;
+		}
+
+		form, div {
+			display: inline;
+		}
+
+		input {
+			font-size: small;
+		}
+
+		#cart {
+			font-size: smaller;
+			color: #34495E;
+
+
+		
+			table {
+				border-top: 1px dashed #34495E;
+				border-bottom: 1px dashed #34495E;
+				margin-bottom: 10px;
+			}
+		}
+
+		ul {
+			padding: 0;
+			li {
+				list-style: none;
+				a {
+					color: #34495E;
+					font-size: small;
+				}
+			}
+		}
+	}
+}

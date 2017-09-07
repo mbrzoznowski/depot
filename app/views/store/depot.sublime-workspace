@@ -1,0 +1,618 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ase",
+				"asserts_select"
+			],
+			[
+				"red",
+				"related\t(store.scss)"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin\t(products.scss)"
+			],
+			[
+				"img",
+				"image_url\t(products_controller_test.rb)"
+			],
+			[
+				"asser",
+				"assert_equal"
+			],
+			[
+				"imag",
+				"image_url\t(index.html.erb)"
+			],
+			[
+				"font-s",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html.erb",
+			"settings":
+			{
+				"buffer_size": 620,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mbrzoznowski/Desktop/depot/app/controllers/line_items_controller.rb",
+			"settings":
+			{
+				"buffer_size": 859,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mbrzoznowski/Desktop/depot/app/models/cart.rb",
+			"settings":
+			{
+				"buffer_size": 80,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mbrzoznowski/Desktop/depot/app/controllers/store_controller.rb",
+			"settings":
+			{
+				"buffer_size": 106,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mbrzoznowski/Desktop/depot/config/environments/development.rb",
+			"settings":
+			{
+				"buffer_size": 1600,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mbrzoznowski/Desktop/depot/app/models/product.rb",
+			"settings":
+			{
+				"buffer_size": 772,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mbrzoznowski/Desktop/depot/app/controllers/concerns/current_cart.rb",
+			"settings":
+			{
+				"buffer_size": 236,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mbrzoznowski/Desktop/depot/test/fixtures/products.yml",
+			"settings":
+			{
+				"buffer_size": 414,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rubocop",
+				"RuboCop: Check current file"
+			],
+			[
+				"syntax ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ruboco",
+				"RuboCop: Check current file"
+			],
+			[
+				"set syn rai",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"syntax css",
+				"Set Syntax: SCSS"
+			],
+			[
+				"set syn scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"set syntax rby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"set syntax erb",
+				"Set Syntax: ERB"
+			],
+			[
+				"rubo",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"\\",
+				"Emmet: Split\\Join Tag"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mbrzoznowski/Desktop/depot",
+		"/Users/mbrzoznowski/Desktop/depot/app",
+		"/Users/mbrzoznowski/Desktop/depot/app/assets/stylesheets",
+		"/Users/mbrzoznowski/Desktop/depot/app/controllers/concerns",
+		"/Users/mbrzoznowski/Desktop/depot/app/models",
+		"/Users/mbrzoznowski/Desktop/depot/app/views/store",
+		"/Users/mbrzoznowski/Desktop/depot/config/environments",
+		"/Users/mbrzoznowski/Desktop/depot/db/migrate",
+		"/Users/mbrzoznowski/Desktop/depot/test",
+		"/Users/mbrzoznowski/Desktop/depot/test/controllers",
+		"/Users/mbrzoznowski/Desktop/code/rails41/depot_f/db/migrate",
+		"/Users/mbrzoznowski/Desktop/code/rails41/depot_f/test",
+		"/Users/mbrzoznowski/Desktop/code/rails41/depot_f/test/controllers",
+		"/Users/mbrzoznowski/Desktop/code/rails41/depot_g/app/controllers",
+		"/Users/mbrzoznowski/Desktop/code/rails41/depot_g/config",
+		"/Users/mbrzoznowski/Desktop/code/rails41/depot_g/test/controllers"
+	],
+	"file_history":
+	[
+		"/Users/mbrzoznowski/Desktop/code/rails41/depot_g/config/routes.rb",
+		"/Users/mbrzoznowski/Desktop/depot/config/routes.rb",
+		"/Users/mbrzoznowski/Desktop/code/rails41/depot_g/test/controllers/line_items_controller_test.rb",
+		"/Users/mbrzoznowski/Desktop/depot/test/controllers/store_controller_test.rb",
+		"/Users/mbrzoznowski/Desktop/depot/app/assets/stylesheets/store.scss",
+		"/Users/mbrzoznowski/Desktop/depot/app/models/cart.rb",
+		"/Users/mbrzoznowski/Desktop/depot/test/controllers/line_items_controller_test.rb",
+		"/Users/mbrzoznowski/Desktop/depot/db/schema.rb",
+		"/Users/mbrzoznowski/Desktop/code/rails41/depot_f/db/schema.rb",
+		"/Users/mbrzoznowski/Desktop/code/rails41/depot_f/app/controllers/line_items_controller.rb",
+		"/Users/mbrzoznowski/Library/Application Support/Sublime Text 3/Packages/RuboCop/Default (OSX).sublime-keymap",
+		"/Users/mbrzoznowski/Library/Application Support/Sublime Text 3/Packages/RuboCop/RuboCop.sublime-settings",
+		"/Users/mbrzoznowski/Library/Application Support/Sublime Text 3/Packages/User/RuboCop.sublime-settings",
+		"/Users/mbrzoznowski/Desktop/depot/db/migrate/20170906085401_create_line_items.rb",
+		"/Users/mbrzoznowski/Desktop/depot/config/environments/development.rb",
+		"/Users/mbrzoznowski/Desktop/depot/app/assets/javascripts/application.js",
+		"/Users/mbrzoznowski/Desktop/depot/app/models/product.rb",
+		"/Users/mbrzoznowski/Desktop/depot/app/views/products/index.html.erb",
+		"/Users/mbrzoznowski/Desktop/depot/app/views/layouts/application.html.erb",
+		"/Users/mbrzoznowski/Desktop/depot/app/views/products/_form.html.erb",
+		"/Users/mbrzoznowski/Desktop/depot/db/seeds.rb",
+		"/Users/mbrzoznowski/Desktop/depot/app/views/products/new.html.erb",
+		"/Users/mbrzoznowski/Desktop/depot/app/views/products/show.html.erb",
+		"/Users/mbrzoznowski/Desktop/depot/app/views/products/edit.html.erb",
+		"/Users/mbrzoznowski/Desktop/depot/app/controllers/products_controller.rb",
+		"/Users/mbrzoznowski/Desktop/depot/db/migrate/20170905093254_create_products.rb",
+		"/Users/mbrzoznowski/Desktop/code/rails41/demo1/app/controllers/say_controller.rb",
+		"/Users/mbrzoznowski/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/mbrzoznowski/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"session[:cart_id] = @cart.cart_id",
+			",",
+			"fred",
+			"assert",
+			"\t\tassert.product.invalid?\n",
+			"#",
+			"# ",
+			"image_url",
+			"title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								620,
+								620
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/ERB Autocomplete/erb.tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/mbrzoznowski/Desktop/depot/app/controllers/line_items_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								514
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/mbrzoznowski/Desktop/depot/app/models/cart.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/mbrzoznowski/Desktop/depot/app/controllers/store_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/mbrzoznowski/Desktop/depot/config/environments/development.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1124,
+								1124
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/mbrzoznowski/Desktop/depot/app/models/product.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								680,
+								680
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/mbrzoznowski/Desktop/depot/app/controllers/concerns/current_cart.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/mbrzoznowski/Desktop/depot/test/fixtures/products.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394,
+								394
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "depot.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"produc",
+				"depot/app/models/product.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

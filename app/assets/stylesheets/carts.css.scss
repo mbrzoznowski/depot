@@ -1,0 +1,9 @@
+.carts, #side #cart{
+  .tem_price, .total_line {
+    text-align: right;
+  }
+  .total_line .total_cell {
+    font-weight: bold;
+    border-top: 1px solid #34495E;
+  }
+}
