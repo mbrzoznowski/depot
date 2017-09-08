@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  devise_for :admins, ActiveAdmin::Devise.config
+  ActiveAdmin.routes(self)
   devise_for :users
   root 'store#index', as: 'store'
   resources :line_items

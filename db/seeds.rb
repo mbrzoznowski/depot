@@ -8,9 +8,11 @@
 Product.delete_all
 
 Product.create!(title: 'Programming Ruby 2.4',
-	description:
-	%{<p>
-		Ruby is fasters growing and most exciting dynamic language out there.
-	</p>},
-	image_url: 'ruby.jpg',
-	price: '49.95')
+  description:
+  %{<p>
+   Ruby is fasters growing and most exciting dynamic language out there.
+  </p>},
+  image_url: 'ruby.jpg',
+  price: '49.95')
+
+Admin.create!(email: 'admin@example.com', password: 'password', password_confirmation: 'password') if Rails.env.development?
